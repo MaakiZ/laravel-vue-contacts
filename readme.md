@@ -6,7 +6,7 @@
 Clonar o projeto:
 ``` bash
 # Clonar
-git clone https://github.com/carlosfgti/laravel-com-vue-exemplo.git
+git clone https://github.com/MaakiZ/laravel-vue-contacts.git
 
 # Acessar
 cd contacts_projet
