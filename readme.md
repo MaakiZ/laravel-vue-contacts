@@ -9,7 +9,7 @@ Clonar o projeto:
 git clone https://github.com/MaakiZ/laravel-vue-contacts.git
 
 # Acessar
-cd contacts_projet
+cd laravel-vue-contacts
 ```
 
 ## Configuração - Backend
